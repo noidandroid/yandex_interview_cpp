@@ -9,7 +9,7 @@ bool isAnagram (string s1, string s2){
 	
 	for (int i = 0; i < s1.length(); i++) {
         freq[s1[i]]++;
-    }
+        }
 	
 	for (int i = 0; i < s2.length(); i++) {
         if (freq.find(s2[i]) == freq.end()) {
