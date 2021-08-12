@@ -25,9 +25,9 @@ void f(int cnt, int ind, int k){
 }
 
 int main() {
-	ios_base::sync_with_stdio(false);
+    ios_base::sync_with_stdio(false);
     cin.tie(NULL);
-	int n;
+    int n;
     cin >> n;
     
     arr.resize(n * 2);
