@@ -1,1 +1,1 @@
-Yandex interview traing test tasks (C++)
+Yandex interview training test tasks (C++)
