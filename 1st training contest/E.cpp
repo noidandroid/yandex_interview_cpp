@@ -26,7 +26,7 @@ bool isAnagram (string s1, string s2){
 }
 
 int main() {
-	ios_base::sync_with_stdio(false);
+    ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     
     string a, b;
